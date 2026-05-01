@@ -1,0 +1,126 @@
+{
+  "services": [
+    {
+      "id": "svc-1",
+      "category": "makeup",
+      "name": {
+        "az": "Ziyafət makiyajı",
+        "ru": "Вечерний макияж"
+      },
+      "duration": {
+        "az": "60-90 dəq",
+        "ru": "60-90 мин"
+      },
+      "price": {
+        "az": "80 AZN",
+        "ru": "80 AZN"
+      },
+      "description": {
+        "az": "Kirpiksiz ziyafət makiyajı.",
+        "ru": "Вечерний макияж без ресниц."
+      }
+    },
+    {
+      "id": "svc-2",
+      "category": "hair",
+      "name": {
+        "az": "Ziyafət saçı",
+        "ru": "Вечерняя прическа"
+      },
+      "duration": {
+        "az": "60-90 dəq",
+        "ru": "60-90 мин"
+      },
+      "price": {
+        "az": "60 / 70 / 80 AZN",
+        "ru": "60 / 70 / 80 AZN"
+      },
+      "description": {
+        "az": "Saç uzunluğundan asılı qiymət.",
+        "ru": "Цена зависит от длины волос."
+      }
+    }
+  ],
+  "homePhotos": [
+    {
+      "id": "94b76ba2-16f6-420d-a0d8-b61bee0154f4",
+      "slot": "about_main",
+      "imageUrl": "/uploads/1777562499964-53f95c24.jpg",
+      "alt": {
+        "az": "123",
+        "ru": ""
+      }
+    },
+    {
+      "id": "d40c8e4f-ef3b-4bd7-af83-69a0b06178fb",
+      "slot": "featured_1",
+      "imageUrl": "/uploads/1777562777149-eecba1d4.jpg",
+      "alt": {
+        "az": "",
+        "ru": ""
+      }
+    },
+    {
+      "id": "825c5a7f-cd81-4ee0-8ec0-e06d4d9802ae",
+      "slot": "featured_2",
+      "imageUrl": "/uploads/1777562779156-9ff77844.jpg",
+      "alt": {
+        "az": "",
+        "ru": ""
+      }
+    },
+    {
+      "id": "8e251714-07e5-43b5-9c10-e5512e10a3a9",
+      "slot": "featured_3",
+      "imageUrl": "/uploads/1777562729616-a2d49ec4.jpg",
+      "alt": {
+        "az": "",
+        "ru": ""
+      }
+    }
+  ],
+  "galleryPhotos": [
+    {
+      "id": "gal-1",
+      "category": "lashes",
+      "imageUrl": "/uploads/1777562899777-a1d2dac3.png",
+      "alt": {
+        "az": "Kirpik işi",
+        "ru": "Работа по ресницам"
+      }
+    },
+    {
+      "id": "c92df936-1f95-4b60-b19b-98626d118f6a",
+      "category": "makeup",
+      "imageUrl": "/uploads/1777562913809-7ab889f3.jpg",
+      "alt": {
+        "az": "",
+        "ru": ""
+      }
+    },
+    {
+      "id": "a9ce6859-6ce4-4469-92ef-8796f3bf134d",
+      "category": "skincare",
+      "imageUrl": "/uploads/1777562919545-3623d988.jpg",
+      "alt": {
+        "az": "",
+        "ru": ""
+      }
+    }
+  ],
+  "reservations": [
+    {
+      "category": "henna",
+      "service": "white-henna-1-hand",
+      "firstName": "esger",
+      "lastName": "huseynli",
+      "email": "e@e.com",
+      "phone": "123456789",
+      "date": "2026-04-30",
+      "time": "10:00",
+      "notes": "yoxdu",
+      "id": "res-c1b8d0b5",
+      "createdAt": "2026-04-30T15:27:54.629Z"
+    }
+  ]
+}

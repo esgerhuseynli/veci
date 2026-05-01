@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "usr-3747c43f",
+      "name": "esger",
+      "email": "test@test",
+      "password": "esger123",
+      "createdAt": "2026-04-30T15:52:46.848Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "sess-dee041ba-c435-47ec-a759-29093a8b5e64",
+      "userId": "usr-3747c43f",
+      "createdAt": "2026-04-30T15:52:46.850Z"
+    }
+  ]
+}
